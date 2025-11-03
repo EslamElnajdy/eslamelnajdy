@@ -1,5 +1,5 @@
 ---
-title: "🐞 Whoami — Islam Elnajdy"
+title: "Whoami — Islam Elnajdy"
 icon: fas fa-info-circle
 order: 4
 ---
@@ -12,7 +12,7 @@ order: 4
 
 ---
 
-## 📌 Profile
+## Profile
 
 -  **Role:** Bug Hunter  
 -  **Focus Areas:** Account Takeover, Auth/Z Flaws, Business Logic, IDOR, Session Issues  
@@ -21,7 +21,7 @@ order: 4
 
 ---
 
-## 🛡️ Strengths
+## Strengths
 
 - Reports focused on real-world impact (**Impact-first** approach).  
 - Consistent and complete evidence: Requests/Responses, Headers, Body, Timing.  
@@ -30,12 +30,12 @@ order: 4
 
 ---
 
-## 🔗 Links
+## Links
 
 - [LinkedIn](https://www.linkedin.com/in/islamelnajdy/) — Profile  
 - [GitHub](https://github.com/EslamElnajdy) — Scripts & small tools.  
 - [X / Twitter](https://x.com/black_d3v) — Quick notes & practical tips.  
 - [HackerOne](https://hackerone.com/black_d3v?type=user) — Profile & achievements.  
 - [LeetCode](https://leetcode.com/u/islam_elnajdy/) — Profile & achievements.  
-- 📧 **Email:** [islamnajdy@gmail.com](mailto:islamnajdy@gmail.com)
+- **Email:** [islamnajdy@gmail.com](mailto:islamnajdy@gmail.com)
 
